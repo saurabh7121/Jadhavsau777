@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📫 How to reach me **jadhavsau777@gmail.com**
+- 📫 Contact Me On Emails **jadhavsau777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
