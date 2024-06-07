@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
-<img src="https://www.google.com/search?client=ms-android-samsung-gj-rev1&sca_esv=9d633321853007a8&sxsrf=ADLYWILEorvJjQ7htBZgYEcycHn8kwvSng:1717756973104&q=frontend+developer&uds=ADvngMhlPgCSGjqo-NM4JLnBU0z2bzALCiPMYlbD6LfvWAWgUfa6F_YaiJPQrOUCT_WH176HMdvlNOlAAfGAke9GF-86CdK4I3hdsfloL5JtrLHO4iggSWmK9uLZqTVnO97m_QPRoPRE4sZ__xbdVL9m3hm7AdItdH4UVdppc0VvENuheOSl4alUP4NvS96jcUh7hbcRjVynw3gBNYE2kNCMzJDa1aJ5CqR47pOnBiNXSj3R40FAVB4rtRoD8w4uyyjyY3Ckq1z8Lrg4KpIgMOWWrt_sDXpFO8BDaTxoFLhK6f5psAVLgXhBh2Ow753HWECdjUdzaqY6DhpyvC7rmG9gEuk2gpJluw&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwj2ysSxp8mGAxXc2DgGHeWvCwEQtKgLegQIDxAB&biw=412&bih=1126&dpr=1.75#vhid=R3RztpUxaK7IXM&vssid=mosaic" >
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavsau777&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavsau777" /> </p>
