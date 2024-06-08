@@ -31,6 +31,5 @@
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jadhavsau777" data-version="v1" align="center"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jadhavsau777?trk=profile-badge">Saurabh Jadhav</a></div>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
               
