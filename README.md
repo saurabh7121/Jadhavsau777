@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" alt="coding">
 
 
-<p align="center" style="margin:20px"> <img src="https://komarev.com/ghpvc/?username=jadhavsau777&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavsau777" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jadhavsau777&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavsau777"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadhavsau777" alt="jadhavsau777" /></a> </p>
 
