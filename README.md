@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<script> src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavsau777&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavsau777" /> </p>
 
