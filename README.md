@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="400" src="https://dribbble.com/search/developer-gif.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" alt="coding">
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jadhavsau777&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavsau777" /> </p>
 
