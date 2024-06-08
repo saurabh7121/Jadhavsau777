@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<script> src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavsau777&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavsau777" /> </p>
 
@@ -30,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavsau777&" alt="jadhavsau777" /></p>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jadhavsau777" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jadhavsau777?trk=profile-badge">Saurabh Jadhav</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jadhavsau777" data-version="v1" align="center"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jadhavsau777?trk=profile-badge">Saurabh Jadhav</a></div>
               
