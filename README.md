@@ -31,7 +31,6 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" /><br>
 </div>
-
-
+<br/>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavsau777&" alt="jadhavsau777" /></p>
 
