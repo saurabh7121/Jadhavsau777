@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="coding">
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F19756799-Developer-Animation&psig=AOvVaw1UsX3UoVgGBJnCmSXeqHkO&ust=1718742363445000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCxia2844YDFQAAAAAdAAAAABAE" alt="coding">
 
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
