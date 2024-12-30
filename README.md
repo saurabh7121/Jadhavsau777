@@ -34,3 +34,9 @@
 </div>
 <br/>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavsau777&" alt="jadhavsau777" /></p>
+### ✨ Fun Fact:
+I love designing creative presentations and crafting visually appealing posters for various events!
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me! 😊
