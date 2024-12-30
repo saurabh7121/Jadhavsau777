@@ -26,8 +26,6 @@
 <a href="https://instagram.com/jadhavsau777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jadhavsau777" height="30" width="40" /></a>
 </p>
 
-
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -36,4 +34,3 @@
 </div>
 <br/>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavsau777&" alt="jadhavsau777" /></p>
-
