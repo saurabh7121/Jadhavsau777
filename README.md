@@ -35,5 +35,5 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" /><br>
 </div>
 <br/>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavsau777&" alt="jadhavsau777" /></p>
+<p align="center" ><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jadhavsau777&theme=dark" alt="GitHub Streak" /></a></p>
 
