@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" /><br>
 </div>
 <br/>
-<p align="center" >[![GitHub Streak](https://streak-stats.demolab.com/?user=Jadhavsau777)](https://git.io/streak-stats)
+<p align="center" // There Was An Github Streak Stats Over Here>
 
 </p>
 
