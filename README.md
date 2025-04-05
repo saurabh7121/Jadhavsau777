@@ -2,7 +2,7 @@
 
 <img align="center"  src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" alt="coding">
 
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jadhavsau777&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavsau777" /> </p>
 
@@ -33,10 +33,6 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" /><br>
 </div>
 <br/>
-<p align="center" >[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jadhavsau777&theme=dark)](https://git.io/streak-stats)</p>
-### ✨ Fun Fact:
-I love designing creative presentations and crafting visually appealing posters for various events!
 
----
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me! 😊
